@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "sYarnapult01",
+    "path": "sprites/sYarnapult01/sYarnapult01.yy",
   },
   "solid": false,
   "visible": true,

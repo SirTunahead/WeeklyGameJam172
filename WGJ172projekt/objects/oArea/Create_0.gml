@@ -1,0 +1,2 @@
+areaX = x;
+areaY = y;

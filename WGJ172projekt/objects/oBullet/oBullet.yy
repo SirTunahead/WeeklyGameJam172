@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sBullet",
-    "path": "sprites/sBullet/sBullet.yy",
+    "name": "sBullet01_Nyarn01",
+    "path": "sprites/sBullet01_Nyarn01/sBullet01_Nyarn01.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"parent":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
